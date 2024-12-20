@@ -1,0 +1,17 @@
+D:\Programming - Assignments & Labs\Assignments\Assignment #2\Pocket Calculator\Pocket Calculator\bin\Debug\net6.0-windows\Pocket Calculator.exe
+D:\Programming - Assignments & Labs\Assignments\Assignment #2\Pocket Calculator\Pocket Calculator\bin\Debug\net6.0-windows\Pocket Calculator.deps.json
+D:\Programming - Assignments & Labs\Assignments\Assignment #2\Pocket Calculator\Pocket Calculator\bin\Debug\net6.0-windows\Pocket Calculator.runtimeconfig.json
+D:\Programming - Assignments & Labs\Assignments\Assignment #2\Pocket Calculator\Pocket Calculator\bin\Debug\net6.0-windows\Pocket Calculator.dll
+D:\Programming - Assignments & Labs\Assignments\Assignment #2\Pocket Calculator\Pocket Calculator\bin\Debug\net6.0-windows\Pocket Calculator.pdb
+D:\Programming - Assignments & Labs\Assignments\Assignment #2\Pocket Calculator\Pocket Calculator\obj\Debug\net6.0-windows\Pocket_Calculator.Form1.resources
+D:\Programming - Assignments & Labs\Assignments\Assignment #2\Pocket Calculator\Pocket Calculator\obj\Debug\net6.0-windows\Pocket_Calculator.Properties.Resources.resources
+D:\Programming - Assignments & Labs\Assignments\Assignment #2\Pocket Calculator\Pocket Calculator\obj\Debug\net6.0-windows\Pocket Calculator.csproj.GenerateResource.cache
+D:\Programming - Assignments & Labs\Assignments\Assignment #2\Pocket Calculator\Pocket Calculator\obj\Debug\net6.0-windows\Pocket Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming - Assignments & Labs\Assignments\Assignment #2\Pocket Calculator\Pocket Calculator\obj\Debug\net6.0-windows\Pocket Calculator.AssemblyInfoInputs.cache
+D:\Programming - Assignments & Labs\Assignments\Assignment #2\Pocket Calculator\Pocket Calculator\obj\Debug\net6.0-windows\Pocket Calculator.AssemblyInfo.cs
+D:\Programming - Assignments & Labs\Assignments\Assignment #2\Pocket Calculator\Pocket Calculator\obj\Debug\net6.0-windows\Pocket Calculator.csproj.CoreCompileInputs.cache
+D:\Programming - Assignments & Labs\Assignments\Assignment #2\Pocket Calculator\Pocket Calculator\obj\Debug\net6.0-windows\Pocket Calculator.dll
+D:\Programming - Assignments & Labs\Assignments\Assignment #2\Pocket Calculator\Pocket Calculator\obj\Debug\net6.0-windows\refint\Pocket Calculator.dll
+D:\Programming - Assignments & Labs\Assignments\Assignment #2\Pocket Calculator\Pocket Calculator\obj\Debug\net6.0-windows\Pocket Calculator.pdb
+D:\Programming - Assignments & Labs\Assignments\Assignment #2\Pocket Calculator\Pocket Calculator\obj\Debug\net6.0-windows\Pocket Calculator.genruntimeconfig.cache
+D:\Programming - Assignments & Labs\Assignments\Assignment #2\Pocket Calculator\Pocket Calculator\obj\Debug\net6.0-windows\ref\Pocket Calculator.dll
